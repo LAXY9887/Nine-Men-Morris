@@ -1,0 +1,14 @@
+D:\Coding\Unity Project\MorrisX9\GameCore_v1\GameCore_v1\bin\Debug\net6.0\GameCore_v1.exe
+D:\Coding\Unity Project\MorrisX9\GameCore_v1\GameCore_v1\bin\Debug\net6.0\GameCore_v1.deps.json
+D:\Coding\Unity Project\MorrisX9\GameCore_v1\GameCore_v1\bin\Debug\net6.0\GameCore_v1.runtimeconfig.json
+D:\Coding\Unity Project\MorrisX9\GameCore_v1\GameCore_v1\bin\Debug\net6.0\GameCore_v1.dll
+D:\Coding\Unity Project\MorrisX9\GameCore_v1\GameCore_v1\bin\Debug\net6.0\GameCore_v1.pdb
+D:\Coding\Unity Project\MorrisX9\GameCore_v1\GameCore_v1\obj\Debug\net6.0\GameCore_v1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\Unity Project\MorrisX9\GameCore_v1\GameCore_v1\obj\Debug\net6.0\GameCore_v1.AssemblyInfoInputs.cache
+D:\Coding\Unity Project\MorrisX9\GameCore_v1\GameCore_v1\obj\Debug\net6.0\GameCore_v1.AssemblyInfo.cs
+D:\Coding\Unity Project\MorrisX9\GameCore_v1\GameCore_v1\obj\Debug\net6.0\GameCore_v1.csproj.CoreCompileInputs.cache
+D:\Coding\Unity Project\MorrisX9\GameCore_v1\GameCore_v1\obj\Debug\net6.0\GameCore_v1.dll
+D:\Coding\Unity Project\MorrisX9\GameCore_v1\GameCore_v1\obj\Debug\net6.0\refint\GameCore_v1.dll
+D:\Coding\Unity Project\MorrisX9\GameCore_v1\GameCore_v1\obj\Debug\net6.0\GameCore_v1.pdb
+D:\Coding\Unity Project\MorrisX9\GameCore_v1\GameCore_v1\obj\Debug\net6.0\GameCore_v1.genruntimeconfig.cache
+D:\Coding\Unity Project\MorrisX9\GameCore_v1\GameCore_v1\obj\Debug\net6.0\ref\GameCore_v1.dll

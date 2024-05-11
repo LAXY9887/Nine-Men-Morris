@@ -128,7 +128,7 @@
 ## 遊戲核心
 
 在正式使用 Unity 進行開發之前，我先使用 C# 寫了一個能在 Console 運行的文字介面，先完善遊戲規則和流程然後才建立 Unity 專案並加上美術素材和動態特效。
-在 `GameCore_v1`中的`GameCore_v1.exe`是遊戲執行檔，可以用終端機開啟遊玩。
+在 `GameCore_v1`中的`GameCore_v1.exe`是遊戲執行檔，可以用終端機開啟遊玩。另有提供遊戲核心程式碼`GameCore_v1_CS_project`資料夾內。
 
 <div align='center'>
      <img src="https://github.com/LAXY9887/Nine-Men-Morris/blob/main/Image%20Assets/game%20core.png">

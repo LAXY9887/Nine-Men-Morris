@@ -40,7 +40,7 @@
 1. 兩名玩家執黑/白棋輪流行動, 每人 9 顆棋子。(黑棋先手)雙方輪流將棋子擺在一 7 x 7 棋盤 (圖一)的交點，或是移動棋子。
 
    <div align='center'>
-     <img src="https://github.com/LAXY9887/Nine-Men-Morris/blob/main/Image%20Assets/board%20v2.png" width=350 height=350>
+     <img src="https://github.com/LAXY9887/Nine-Men-Morris/blob/main/Image%20Assets/board%20v2.png" width=350>
    </div>
    
    <p align='center'>圖一、棋盤</p>
@@ -48,7 +48,7 @@
 2. 玩家的目標為將自己的三顆棋子連成 “磨” (Mill) (圖二), 當作成 Mill 時可以移除對手的一顆棋子。
 
    <div align='center'>
-     <img src="https://github.com/LAXY9887/Nine-Men-Morris/blob/main/Image%20Assets/Explaination.png" width=350 height=350>
+     <img src="https://github.com/LAXY9887/Nine-Men-Morris/blob/main/Image%20Assets/Explaination.png" width=350>
    </div>
 
    <p align='center'>圖二、磨 (Mill)</p>

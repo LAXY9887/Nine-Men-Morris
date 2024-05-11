@@ -1,6 +1,6 @@
 # Nine-Men-Morris
 
-本頁面紀錄由兩位作者共同開發之九子棋遊戲的成果展示。
+本頁面紀錄由兩位作者共同開發之九子棋遊戲的成果展示。本遊戲使用 Unity 進行開發。
 
 <div align='center'>
      <img src="https://github.com/LAXY9887/Nine-Men-Morris/blob/main/Image%20Assets/icon%20design.png" width=350 height=350>
@@ -14,7 +14,7 @@
 
 ## 更新
 
-2024.05.11 建立 Github 頁面, 輸出遊戲 Demo 執行檔
+2024.05.11 建立 Github 頁面, 輸出遊戲 Demo 執行檔。遊戲仍在開發中。
 
 ## 工作事項
 
@@ -124,3 +124,14 @@
 <div align='center'>
      <img src="https://github.com/LAXY9887/Nine-Men-Morris/blob/main/Image%20Assets/performance-b4.gif" width=800 height=450>
 </div>
+
+## 遊戲核心
+
+在正式使用 Unity 進行開發之前，我先使用 C# 寫了一個能在 Console 運行的文字介面，先完善遊戲規則和流程然後才建立 Unity 專案並加上美術素材和動態特效。
+在 `GameCore_v1`中的`GameCore_v1.exe`是遊戲執行檔，可以用終端機開啟遊玩。
+
+<div align='center'>
+     <img src="https://github.com/LAXY9887/Nine-Men-Morris/blob/main/Image%20Assets/game%20core.png">
+</div>
+   
+<p align='center'>圖八、遊戲核心</p>

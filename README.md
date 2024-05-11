@@ -10,7 +10,7 @@
 
 企劃/程式：Angelcemept
 
-美術/動畫：黃勇勝
+美術/動畫：黃勇勝 [🌍作品集🔗](https://www.behance.net/uok)
 
 ## 更新
 

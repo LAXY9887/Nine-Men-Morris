@@ -88,13 +88,13 @@
 <p align='center'>圖五、遊戲設定選單</p>
 
 <div align='center'>
-     <img src="https://github.com/LAXY9887/Nine-Men-Morris/blob/main/Image%20Assets/menu%20rules%20design.png" width=500 height=300>
+     <img src="https://github.com/LAXY9887/Nine-Men-Morris/blob/main/Image%20Assets/menu%20rules%20design.png" width=500>
 </div>
    
 <p align='center'>圖六、遊戲規則選單</p>
 
 <div align='center'>
-     <img src="https://github.com/LAXY9887/Nine-Men-Morris/blob/main/Image%20Assets/menu%20credit%20design.png" width=500 height=300>
+     <img src="https://github.com/LAXY9887/Nine-Men-Morris/blob/main/Image%20Assets/menu%20credit%20design.png" width=500>
 </div>
    
 <p align='center'>圖七、製作人員選單</p>
@@ -104,25 +104,25 @@
 1. 落子、回合提示
 
 <div align='center'>
-     <img src="https://github.com/LAXY9887/Nine-Men-Morris/blob/main/Image%20Assets/performance-b1.gif" width=800 height=450>
+     <img src="https://github.com/LAXY9887/Nine-Men-Morris/blob/main/Image%20Assets/performance-b1.gif" width=800>
 </div>
 
 2. 連線、吃子提示
 
 <div align='center'>
-     <img src="https://github.com/LAXY9887/Nine-Men-Morris/blob/main/Image%20Assets/performance-b2.gif" width=800 height=450>
+     <img src="https://github.com/LAXY9887/Nine-Men-Morris/blob/main/Image%20Assets/performance-b2.gif" width=800>
 </div>
 
 3. 進入第二階段提示
 
 <div align='center'>
-     <img src="https://github.com/LAXY9887/Nine-Men-Morris/blob/main/Image%20Assets/performace-b3.gif" width=800 height=450>
+     <img src="https://github.com/LAXY9887/Nine-Men-Morris/blob/main/Image%20Assets/performace-b3.gif" width=800>
 </div>
 
 4. 遊戲結束提示
 
 <div align='center'>
-     <img src="https://github.com/LAXY9887/Nine-Men-Morris/blob/main/Image%20Assets/performance-b4.gif" width=800 height=450>
+     <img src="https://github.com/LAXY9887/Nine-Men-Morris/blob/main/Image%20Assets/performance-b4.gif" width=800>
 </div>
 
 ## 遊戲核心
